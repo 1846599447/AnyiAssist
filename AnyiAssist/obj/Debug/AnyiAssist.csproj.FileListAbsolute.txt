@@ -1,0 +1,10 @@
+C:\Users\another\RiderProjects\AnyiAssist\AnyiAssist\bin\Debug\AnyiAssist.exe.config
+C:\Users\another\RiderProjects\AnyiAssist\AnyiAssist\bin\Debug\AnyiAssist.exe
+C:\Users\another\RiderProjects\AnyiAssist\AnyiAssist\bin\Debug\AnyiAssist.pdb
+C:\Users\another\RiderProjects\AnyiAssist\AnyiAssist\obj\Debug\AnyiAssist.csproj.AssemblyReference.cache
+C:\Users\another\RiderProjects\AnyiAssist\AnyiAssist\obj\Debug\AnyiAssist.Properties.Resources.resources
+C:\Users\another\RiderProjects\AnyiAssist\AnyiAssist\obj\Debug\AnyiAssist.csproj.GenerateResource.cache
+C:\Users\another\RiderProjects\AnyiAssist\AnyiAssist\obj\Debug\AnyiAssist.csproj.CoreCompileInputs.cache
+C:\Users\another\RiderProjects\AnyiAssist\AnyiAssist\obj\Debug\AnyiAssist.exe
+C:\Users\another\RiderProjects\AnyiAssist\AnyiAssist\obj\Debug\AnyiAssist.pdb
+C:\Users\another\RiderProjects\AnyiAssist\AnyiAssist\obj\Debug\AnyiAssist.Form1.resources

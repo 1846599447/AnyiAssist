@@ -1,0 +1,10 @@
+C:\Users\another\RiderProjects\AnyiAssist\AnyiAssist\bin\Release\AnyiAssist.exe.config
+C:\Users\another\RiderProjects\AnyiAssist\AnyiAssist\bin\Release\AnyiAssist.exe
+C:\Users\another\RiderProjects\AnyiAssist\AnyiAssist\bin\Release\AnyiAssist.pdb
+C:\Users\another\RiderProjects\AnyiAssist\AnyiAssist\obj\Release\AnyiAssist.csproj.AssemblyReference.cache
+C:\Users\another\RiderProjects\AnyiAssist\AnyiAssist\obj\Release\AnyiAssist.Form1.resources
+C:\Users\another\RiderProjects\AnyiAssist\AnyiAssist\obj\Release\AnyiAssist.Properties.Resources.resources
+C:\Users\another\RiderProjects\AnyiAssist\AnyiAssist\obj\Release\AnyiAssist.csproj.GenerateResource.cache
+C:\Users\another\RiderProjects\AnyiAssist\AnyiAssist\obj\Release\AnyiAssist.csproj.CoreCompileInputs.cache
+C:\Users\another\RiderProjects\AnyiAssist\AnyiAssist\obj\Release\AnyiAssist.exe
+C:\Users\another\RiderProjects\AnyiAssist\AnyiAssist\obj\Release\AnyiAssist.pdb
